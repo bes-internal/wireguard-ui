@@ -182,6 +182,7 @@ command_background=yes
 EOF
 chmod +x wgui
 ```
+(where /sbin/inotifyd is symlink to "busybox inotifyd")
 
 Apply it
 
